@@ -1,8 +1,8 @@
-# SmartCrowd – Intelligent Crowd Safety Management
+# SurakshaSetu – Intelligent Crowd Safety Management
 
 ##  Overview
 
-SmartCrowd is a **web-based crowd management platform** designed to ensure safety during **festivals, cultural events, and public gatherings**.
+SurakshaSetu is a **web-based crowd management platform** designed to ensure safety during **festivals, cultural events, and public gatherings**.
 It leverages **real-time monitoring, AI insights, and smart communication** to prevent overcrowding, reduce risks, and enhance the visitor experience.
 
 ---
@@ -26,16 +26,16 @@ These incidents not only **endanger lives** but also **strain police, organizers
 
 ---
 
-##  Solution – SmartCrowd
+##  Solution – SurakshaSetu
 
-SmartCrowd provides a **proactive safety layer** during large gatherings with:
+SurakshaSetu provides a **proactive safety layer** during large gatherings with:
 
 *  **Real-Time Crowd Monitoring** – Displays crowd density levels (Low, Medium, High, Critical).
 *  **Live Crowd Statistics** – Instant insights for organizers and visitors.
 *  **Safe Route Suggestions** – Guides visitors to less congested areas in real-time.
 *  **Emergency Support** – Faster evacuation & direct alerts to authorities.
 
-With a **cool, user-friendly interface**, SmartCrowd works seamlessly for **visitors, organizers, and government authorities**.
+With a **cool, user-friendly interface**, SurakshaSetu works seamlessly for **visitors, organizers, and government authorities**.
 
 ---
 
@@ -144,7 +144,7 @@ The app will display **Coders Smart Crowd Management**.
 
 ##  Impact & Government Relevance
 
-SmartCrowd ensures:
+SurakshaSetu ensures:
 
 * 🛡️ **Life safety** by preventing stampedes and panic.
 * 👮 **Operational relief** for police and organizers through automation.
@@ -160,7 +160,7 @@ SmartCrowd ensures:
 
 ##  Vision
 
-SmartCrowd aims to be the **go-to safety solution** for festivals and public gatherings—ensuring celebrations are remembered for **joy, not tragedies**.
+SurakshaSetu aims to be the **go-to safety solution** for festivals and public gatherings—ensuring celebrations are remembered for **joy, not tragedies**.
 
 ---
 
